@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/advanced-search/page": "app/advanced-search/page.js",
+  "/documents/[id]/page": "app/documents/[id]/page.js",
+  "/documents/pdf/[id]/page": "app/documents/pdf/[id]/page.js",
+  "/page": "app/page.js",
+  "/documents/page": "app/documents/page.js",
+  "/product/[id]/page": "app/product/[id]/page.js",
+  "/publications/[id]/page": "app/publications/[id]/page.js",
+  "/publications/page": "app/publications/page.js",
+  "/services/[id]/page": "app/services/[id]/page.js",
+  "/services/page": "app/services/page.js",
+  "/subscriptions/page": "app/subscriptions/page.js",
+  "/documents/sitemap/[__metadata_id__]/route": "app/documents/sitemap/[__metadata_id__]/route.js"
+}
